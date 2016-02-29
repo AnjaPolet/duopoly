@@ -4,4 +4,6 @@
  * make a groupId with your name, extend the exiting groupID domain with your name
  * use the assignment name as artefact id (and subfolder name for the project)
  * import the project in to eclipse correctly
+ * import the cleanup and formatting template
+ * make sure code format full file on save is turned on
  * customize a little bit, make hello world in logging.
